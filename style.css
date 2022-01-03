@@ -18,6 +18,7 @@ h3{
 }
 section{
     display: flex;
+    margin-bottom: 50px;
     }
     
 
@@ -44,4 +45,26 @@ section{
     background-size: cover;
     background-repeat: no-repeat;
     
+}
+section{
+    display: flex;
+    margin-bottom: 150 px;
+    }
+    
+
+.second-page{
+    width: 60%;
+    padding-left: 80px;
+    
+}
+.second-page img{
+    width: 35%;
+    
+}
+.Dream-Land{
+    background-image: url(back3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
 }

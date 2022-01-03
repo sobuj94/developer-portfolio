@@ -1,0 +1,47 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0 px;
+}
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 50px;
+    
+}
+.blue-color{
+    color: blue;
+}
+h3{
+    font-size: 35px;
+}
+section{
+    display: flex;
+    }
+    
+
+.half-width{
+    width: 45%;
+    padding-left: 80px;
+    
+}
+.half-width img{
+    width: 200%;
+    
+}
+.link-button{
+    color: black;
+    background-color:green;
+    background-image: linear-gradient(green lime);
+    text-decoration: none;
+    padding: 10px 15px;
+    font-size: 20px;
+    border-radius: 50px;
+}
+.Home-page{
+    background-image: url(img4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}

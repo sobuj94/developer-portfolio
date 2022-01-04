@@ -13,12 +13,15 @@ h2{
 .blue-color{
     color: blue;
 }
+.teal{
+    color:teal;
+}
 h3{
     font-size: 35px;
 }
-section{
+.flexible-container{
     display: flex;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     }
     
 
@@ -46,7 +49,7 @@ section{
     background-repeat: no-repeat;
     
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150 px;
     }
@@ -66,5 +69,23 @@ section{
     background-size: cover;
     background-repeat: no-repeat;
     
+}
 
+.Experement 
+{
+
+    background-image: url(back6.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.shadow{
+    width: 60%;
+    margin-right: 10%;
+    margin-left:  10%;
+    margin-right: 10%;
+    margin-left:  10%;
+    padding-left: 30px;
+    padding-right: 10px;
+    
+    border-radius: 70px;
 }

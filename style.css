@@ -78,14 +78,31 @@ h3{
     background-size:cover;
     background-repeat: no-repeat;
 }
-.shadow{
-    width: 60%;
-    margin-right: 10%;
-    margin-left:  10%;
-    margin-right: 10%;
-    margin-left:  10%;
-    padding-left: 30px;
-    padding-right: 10px;
-    
+
+.shadow 
+{
+    width: 50%;
+    margin-right: 5%;
+    margin-left:  5%;
+    padding-left: 20px;
     border-radius: 70px;
+    box-shadow: 15px 20px 4px grey;
+    
+     
+}
+#linear{
+    border-left: 15px solid yellowgreen;
+    border-top: 15px solid green;
+    
+}
+
+#fuck{
+    border-left: 15px solid orange;
+    border-top: 15px solid orangered;
+}
+
+footer p{
+    
+    text-align: center;
+    color: teal;
 }
